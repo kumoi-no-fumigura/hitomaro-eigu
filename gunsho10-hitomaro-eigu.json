@@ -4,7 +4,12 @@
  "repo": "kumoi-no-fumigura/hitomaro-eigu",
  "yomi": "かきのもとえいぐき",
  "category": "歌学書",
- "description": null,
+ "description": {
+  "kind": "記録（人麿影供）",
+  "era": "元永元年（1118）6月16日",
+  "author": "藤原敦光（記）",
+  "desc": "修理大夫藤原顕季の邸で、新たに描かせた柿本人麿の画像を掲げて行った人麿影供の記録。敦光が讃を作り、源俊頼らが参会した次第と、当座の和歌を記す。"
+ },
  "editions": [
   {
    "pid": "1879527",
@@ -60,6 +65,6 @@
   "poems": 0,
   "editions": 1,
   "updated": "2026-10-30",
-  "updated_at": "2026-10-30T00:05:03+09:00"
+  "updated_at": "2026-10-30T08:19:37+09:00"
  }
 }
